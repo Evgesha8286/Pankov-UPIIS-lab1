@@ -7,5 +7,6 @@
 <img width="454" alt="2" src="https://github.com/Evgesha8286/Pankov-UPIIS-lab1/assets/71136576/62979a14-767a-4b57-a57e-e43f4c05c68d">
 
 ### 3. Перешел в созданный локальный репозиторий:
+<img width="452" alt="3" src="https://github.com/Evgesha8286/Pankov-UPIIS-lab1/assets/71136576/726baac1-20ab-4155-a473-670e3dcae6c7">
 
 
